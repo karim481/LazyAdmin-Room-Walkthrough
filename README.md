@@ -97,7 +97,7 @@ Let's get a PHP reverse shell:
 
 ![Screenshot 2025-01-21 112516](https://github.com/user-attachments/assets/ffbdc818-0ea1-4037-b1c5-09abd4d4b04c)
 
-Here we found a code for pentestmonkey on GitHub. Just edit the IP and port, make a `.php5` file, and upload it. Here is the file [rev.php5](https://tryhackme.com/r/room/lazyadmin).
+Here we found a code for pentestmonkey on GitHub. Just edit the IP and port, make a `.php5` file, and upload it. Here is the file [rev.php5](https://github.com/karim481/LazyAdmin-Room-Walkthrough/blob/main/rev.php5).
 
 ![Screenshot 2025-01-21 112545](https://github.com/user-attachments/assets/30c40fe0-5ae7-4e5b-aa68-f6f4ef770cb4)
 
